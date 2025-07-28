@@ -28,7 +28,7 @@ A simple and clean stopwatch web application built using **HTML**, **CSS**, and 
 
 ### Clone the repository
 git clone https://github.com/sumana-coder/Stop_Watch_Web.git
-cd Stop_Watch_Web
+|cd Stop_Watch_Web
 
 ### Run locally
 Simply open the index.html file in your web browser: open index.html 
